@@ -1,5 +1,6 @@
 # CSC_3380_Geaux_IT
-Project Repository for LSU CSC 3380.<br> Project Name: Geaux IT
+Project Repository for LSU CSC 3380.<br> Project Name: Geaux IT<br>
+Project Members: Austin Steepleton, James Ensminger, Sebastian Heilemann
 
 Project Resources:<br>
 
