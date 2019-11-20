@@ -7,7 +7,7 @@ Project Resources:<br>
 XAMPP for mySQL database to hold tickets<br>
 To Setup Xampp:<br>
 1. Download Xampp for your platform<br>
-2. Start the Apaceh Web Server and mySQL Database<br>
+2. Start the Apache Web Server and mySQL Database<br>
 3. Navigate to localhost/phpmyadmin on a web browser<br>
 4. Create a new database named "GeauxIT"<br>
 5. Create table according to Kazam screenshot named "Tickets"<br>
