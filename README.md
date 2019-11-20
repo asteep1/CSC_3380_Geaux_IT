@@ -3,6 +3,7 @@ Project Repository for LSU CSC 3380.<br> Project Name: Geaux IT<br>
 Project Members: Austin Steepleton, James Ensminger, Sebastian Heilemann
 
 Project Resources:<br>
+Sublime Text Editor<br>
 
 XAMPP for mySQL database to hold tickets<br>
 To Setup Xampp:<br>
@@ -13,5 +14,5 @@ To Setup Xampp:<br>
 5. Create table according to Kazam screenshot named "Tickets"<br>
 6. Place GeauxIT project directory into htdocs directory under where xampp was installed to <br>
 7. Navigate to localhost/GeauxIT/homepage.php<br>
-Sublime Text Editor<br>
+
 
