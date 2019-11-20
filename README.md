@@ -1,7 +1,8 @@
 # CSC_3380_Geaux_IT
 Project Repository for LSU CSC 3380.<br> Project Name: Geaux IT
 
-Project Resources:
+Project Resources:<br>
+
 XAMPP for mySQL database to hold tickets<br>
 To Setup Xampp:<br>
 1. Download Xampp for your platform<br>
